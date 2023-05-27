@@ -1,6 +1,3 @@
 # Speech to Text
 ## Intro
-Convert speech to text
-
-## Options
-1. SpeechRecognition
+Convert m4a speech recorded by iPad or iPhone to text.
